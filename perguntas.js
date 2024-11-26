@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'serie oitnb',
+    'Por que Piper vai para a prisão?',
+    'Piper é condenada por transportar dinheiro para o cartel de drogas de sua ex-namorada, Alex Vause, cerca de 10 anos antes.'
 )
 
 criaCartao(
